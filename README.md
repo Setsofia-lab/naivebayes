@@ -1,5 +1,3 @@
----
-
 # Naive Bayes Classifier from Scratch
 
 This project implements a Naive Bayes classifier from scratch using Python, applied to the Iris dataset for classification.
@@ -48,10 +46,4 @@ pip install -r requirements.txt
     print(f"Accuracy: {accuracy * 100:.2f}%")
     ```
 
-## License
 
-Open-source under the [MIT License](LICENSE).
-
---- 
-
-This README provides a quick summary for setup and use of the Naive Bayes classifier. Adjust paths based on your project structure.
